@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>images (59).jpg</filename>
+	<path>/Users/Nithya/Desktop/models/research/object_detection/images/test/images (59).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>31</ymin>
+			<xmax>785</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>86</ymin>
+			<xmax>310</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

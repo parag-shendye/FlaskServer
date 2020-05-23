@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00000213.jpg</filename>
+	<path>/Users/Nithya/Desktop/models/research/object_detection/images/train/00000213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>379</ymin>
+			<xmax>448</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>
